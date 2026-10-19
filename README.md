@@ -4,6 +4,8 @@
 
 把百度地图官方在线网页装进一个简洁的 Windows 桌面窗口。保留实时地图、地点搜索和路线规划，加入原生顶栏、最近搜索、本机收藏、矩形截图和自动收起的悬浮栏。
 
+![百度地图轻量桌面版 1.6 软件界面](assets/screenshot-1.6.png)
+
 ## 下载
 
 在 [Releases](https://github.com/mofan6/BaiduMapsDesktop/releases/latest) 下载对应位数的单 EXE，双击运行。
