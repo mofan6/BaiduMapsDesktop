@@ -1,0 +1,25 @@
+<DrawingImage xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+  <DrawingImage.Drawing>
+    <DrawingGroup>
+      <!-- Same geometry as AppIcon.svg; the transparent bounds retain its viewBox. -->
+      <GeometryDrawing Brush="Transparent" Geometry="M0,0 H256 V256 H0 Z" />
+      <GeometryDrawing Geometry="M72,8 H184 C219.35,8 248,36.65 248,72 V184 C248,219.35 219.35,248 184,248 H72 C36.65,248 8,219.35 8,184 V72 C8,36.65 36.65,8 72,8 Z">
+        <GeometryDrawing.Brush><LinearGradientBrush StartPoint="0.15,0" EndPoint="0.85,1"><GradientStop Color="#4389F5" Offset="0" /><GradientStop Color="#2457C1" Offset="1" /></LinearGradientBrush></GeometryDrawing.Brush>
+        <GeometryDrawing.Pen><Pen Brush="#2EFFFFFF" Thickness="2" /></GeometryDrawing.Pen>
+      </GeometryDrawing>
+      <GeometryDrawing Geometry="M51,111 Q51,105 57,103 L96,87 V174 L58,189 Q51,192 51,184 Z">
+        <GeometryDrawing.Brush><LinearGradientBrush StartPoint="0,0" EndPoint="1,1"><GradientStop Color="White" Offset="0" /><GradientStop Color="#E6F0FF" Offset="1" /></LinearGradientBrush></GeometryDrawing.Brush>
+      </GeometryDrawing>
+      <GeometryDrawing Brush="#ACCCF8" Geometry="M96,87 L137,105 V192 L96,174 Z" />
+      <GeometryDrawing Geometry="M137,105 L178,89 Q184,87 184,94 V171 Q184,177 178,179 L137,192 Z">
+        <GeometryDrawing.Brush><LinearGradientBrush StartPoint="0,0" EndPoint="1,1"><GradientStop Color="White" Offset="0" /><GradientStop Color="#E6F0FF" Offset="1" /></LinearGradientBrush></GeometryDrawing.Brush>
+      </GeometryDrawing>
+      <GeometryDrawing Brush="White" Geometry="M170,47 C149,47 132,63 132,84 C132,110 170,140 170,140 C170,140 208,110 208,84 C208,63 191,47 170,47 Z">
+        <GeometryDrawing.Pen><Pen Brush="#2C6AD4" Thickness="6" LineJoin="Round" /></GeometryDrawing.Pen>
+      </GeometryDrawing>
+      <GeometryDrawing Geometry="M182,83 A12,12 0 1 1 158,83 A12,12 0 1 1 182,83 Z">
+        <GeometryDrawing.Brush><LinearGradientBrush StartPoint="0,0" EndPoint="1,1"><GradientStop Color="#68DCCB" Offset="0" /><GradientStop Color="#28BBA9" Offset="1" /></LinearGradientBrush></GeometryDrawing.Brush>
+      </GeometryDrawing>
+    </DrawingGroup>
+  </DrawingImage.Drawing>
+</DrawingImage>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">地图桌面版</title>
+  <desc id="desc">蓝色圆角底，柔和的折叠地图与带青绿色圆心的定位标记。</desc>
+  <defs>
+    <linearGradient id="tile" x1="15%" y1="0%" x2="85%" y2="100%">
+      <stop stop-color="#4389F5"/>
+      <stop offset="1" stop-color="#2457C1"/>
+    </linearGradient>
+    <linearGradient id="paper" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#E6F0FF"/>
+    </linearGradient>
+    <linearGradient id="location" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop stop-color="#68DCCB"/>
+      <stop offset="1" stop-color="#28BBA9"/>
+    </linearGradient>
+  </defs>
+  <path d="M72 8H184C219.35 8 248 36.65 248 72V184C248 219.35 219.35 248 184 248H72C36.65 248 8 219.35 8 184V72C8 36.65 36.65 8 72 8Z" fill="url(#tile)"/>
+  <path d="M72 8H184C219.35 8 248 36.65 248 72V184C248 219.35 219.35 248 184 248H72C36.65 248 8 219.35 8 184V72C8 36.65 36.65 8 72 8Z" stroke="#FFFFFF" stroke-opacity=".18" stroke-width="2"/>
+  <path d="M51 111Q51 105 57 103L96 87V174L58 189Q51 192 51 184Z" fill="url(#paper)"/>
+  <path d="M96 87L137 105V192L96 174Z" fill="#ACCCF8"/>
+  <path d="M137 105L178 89Q184 87 184 94V171Q184 177 178 179L137 192Z" fill="url(#paper)"/>
+  <path d="M170 47C149 47 132 63 132 84C132 110 170 140 170 140C170 140 208 110 208 84C208 63 191 47 170 47Z" fill="#FFFFFF" stroke="#2C6AD4" stroke-width="6" stroke-linejoin="round"/>
+  <circle cx="170" cy="83" r="12" fill="url(#location)"/>
+</svg>

@@ -1,0 +1,13 @@
+BMD Sans SC Regular
+Derived from Noto Sans SC Variable, weight 400, with a renamed family.
+Copyright and licensing information are preserved in the font name table.
+License: SIL Open Font License 1.1 (FONT-LICENSE.txt), embedded in the EXE.
+
+Upstream: https://github.com/notofonts/noto-cjk
+Source: https://raw.githubusercontent.com/notofonts/noto-cjk/main/Sans/Variable/TTF/Subset/NotoSansSC-VF.ttf
+License: https://raw.githubusercontent.com/notofonts/noto-cjk/main/Sans/LICENSE
+
+Subset ranges: U+0000-024F, U+2000-206F, U+3000-303F, U+3400-4DBF,
+U+4E00-9FFF, U+FF00-FFEF. Static regular weight, WOFF2.
+Unsupported characters fall back to system fonts.
+No font installation or extraction is needed.
