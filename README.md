@@ -10,8 +10,8 @@
 
 | 版本 | 大小 | 下载 |
 | --- | --- | --- |
-| 64 位（x64） | 5.79 MB | [百度地图桌面版-1.6-x64.exe](https://github.com/mofan6/BaiduMapsDesktop/releases/download/v1.6/百度地图桌面版-1.6-x64.exe) |
-| 32 位（x86） | 5.71 MB | [百度地图桌面版-1.6-x86.exe](https://github.com/mofan6/BaiduMapsDesktop/releases/download/v1.6/百度地图桌面版-1.6-x86.exe) |
+| 64 位（x64） | 5.79 MB | [BaiduMapsDesktop-1.6-x64.exe](https://github.com/mofan6/BaiduMapsDesktop/releases/download/v1.6/BaiduMapsDesktop-1.6-x64.exe) |
+| 32 位（x86） | 5.71 MB | [BaiduMapsDesktop-1.6-x86.exe](https://github.com/mofan6/BaiduMapsDesktop/releases/download/v1.6/BaiduMapsDesktop-1.6-x86.exe) |
 
 支持 Windows 7 SP1 至 Windows 11，需具备下文列出的 .NET Framework 与 WebView2 运行组件。32 位 Windows 请选择 x86；64 位 Windows 优先选择 x64。
 
